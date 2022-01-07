@@ -1,2 +1,2 @@
-# Auto_Accident_Analysis
-Machine Learning project about auto accident analysis.
+# Machine_Learning
+Machine Learning final project about auto accident analysis.
